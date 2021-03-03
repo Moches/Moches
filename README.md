@@ -3,7 +3,7 @@
 <!--
 **Moches/Moches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am on a mission to become an amazing front-end developer, web & UX/UI designer. Documenting all my journey.
+<p>I am on a mission to become an amazing front-end developer, web & UX/UI designer. Documenting all my journey.</p>
 I loke to inspire developers and designers all over the globe.
 
 - 🔭 I’m currently working on ...
