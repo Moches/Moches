@@ -42,5 +42,4 @@
 <a href="https://www.behance.net/noedelaflor/"><img src="https://img.shields.io/badge/-noedelaflor-BD081C?style=flat&logo=Behance&logoColor=white"/></a>
 <a href="https://codepen.io/moches"><img src="https://img.shields.io/badge/-moches-BD081C?style=flat&logo=Codepen&logoColor=white"/></a>
 <a href="https://www.pinterest.com.mx/moches"><img src="https://img.shields.io/badge/-@moches-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="mailto:noedelaflor@gmail.com"><img src="https://img.shields.io/badge/-noedealflor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
